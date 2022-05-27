@@ -1,4 +1,4 @@
 # AP-MileStone-Project
 AP COMPUTER SCIENCE PROJECT
-Made with pygame module in python
-Code will be published in another readMe file.
+Snake game using simple shapes and a grid.
+Made with pygame module in python.
